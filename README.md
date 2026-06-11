@@ -35,6 +35,7 @@ A deterministic, rule‑based chatbot that responds to predefined user inputs us
 ---
 
 -rule_based_chatbot/
+
      - app.py
     - chatbot_cli.py
     - requirements.txt
